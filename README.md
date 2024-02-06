@@ -1,16 +1,21 @@
-In my journey as a Senior Software Engineer, I've been driven by a passion for crafting innovative tech solutions that push boundaries. Proficient in Ruby On Rails, Node.js, React, Vue, TypeScript, GraphQL, Apollo, AWS, and Lambda, I've made significant contributions to projects redefining standards in software quality, performance, and scalability. My approach involves blending strategic insight with hands-on execution, aligning technology with business objectives to deliver tangible results.
+# Hi there! 👋 I'm [Your Name], a Full Stack Web Developer.
 
-<!--
-**danielrorspace/danielrorspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about building interactive and user-friendly web applications. With experience in both frontend and backend technologies, I strive to create seamless digital experiences.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:** HTML, CSS, JavaScript, React, Vue.js
+- **Backend:** Node.js, Express, Django, Flask
+- **Database:** MySQL, PostgreSQL, MongoDB
+- **Other Tools:** Git, Docker, AWS, Heroku
+
+## Projects
+
+Feel free to explore my repositories for more projects and contributions!
+
+## Get in Touch
+
+- Email: daniel.rorspace@gmail.com
+
+
+Let's connect and build something awesome together!
