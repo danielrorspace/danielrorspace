@@ -1,4 +1,4 @@
-### Hi there 👋
+In my journey as a Senior Software Engineer, I've been driven by a passion for crafting innovative tech solutions that push boundaries. Proficient in Ruby On Rails, Node.js, React, Vue, TypeScript, GraphQL, Apollo, AWS, and Lambda, I've made significant contributions to projects redefining standards in software quality, performance, and scalability. My approach involves blending strategic insight with hands-on execution, aligning technology with business objectives to deliver tangible results.
 
 <!--
 **danielrorspace/danielrorspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
