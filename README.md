@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name], a Full Stack Web Developer.
+# Hi there! 👋 I'm Daniel Sanchez, a Full Stack Web Developer.
 
 Welcome to my GitHub profile! I'm passionate about building interactive and user-friendly web applications. With experience in both frontend and backend technologies, I strive to create seamless digital experiences.
 
@@ -12,10 +12,5 @@ Welcome to my GitHub profile! I'm passionate about building interactive and user
 ## Projects
 
 Feel free to explore my repositories for more projects and contributions!
-
-## Get in Touch
-
-- Email: daniel.rorspace@gmail.com
-
 
 Let's connect and build something awesome together!
