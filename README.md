@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm passionate about building interactive and user
 
 ## Skills
 
-- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Angular, Vue.js
 - **Backend:** Ruby on Rails, Node.js, Python
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Angular, Vue.js
 - **Database:** MySQL, PostgreSQL, MongoDB
 - **Other Tools:** Git, Docker, AWS, Heroku
 
